@@ -48,15 +48,26 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Following gems reported missing by Github actions (https://github.com/gippeswyk-singers/gippeswyk-singers.github.io/actions) 
-gem "webrick",  "~> 1.9.0"
-gem "i18n"
-gem "rexml"
-gem "activesupport"
-gem "concurrent-ruby"
-gem "faraday"
-gem "execjs"
-gem "logger"
-gem "minitest"
-gem "faraday-net_http"
-gem "json"
-gem "uri"
+gem "webrick", "~> 1.9"
+
+gem "i18n", "~> 1.14"
+
+gem "rexml", "~> 3.3"
+
+gem "activesupport", "~> 7.2"
+
+gem "concurrent-ruby", "~> 1.3"
+
+gem "faraday", "~> 2.12"
+
+gem "execjs", "~> 2.10"
+
+gem "logger", "~> 1.6"
+
+gem "minitest", "~> 5.25"
+
+gem "faraday-net_http", "~> 3.3"
+
+gem "json", "~> 2.7"
+
+gem "uri", "~> 0.13.1"
