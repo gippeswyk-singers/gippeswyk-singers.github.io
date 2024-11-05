@@ -46,3 +46,17 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
+
+# Following gems reported missing by Github actions (https://github.com/gippeswyk-singers/gippeswyk-singers.github.io/actions)
+gem "webrick"
+gem "i18n"
+gem "rexml"
+gem "activesupport"
+gem "concurrent-ruby"
+gem "faraday"
+gem "execjs"
+gem "logger"
+gem "minitest"
+gem "faraday-net_http"
+gem "json"
+gem "uri"
