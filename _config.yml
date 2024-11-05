@@ -164,4 +164,5 @@ fonts:
     - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
 
 # Oops, need to apply the theme!
-remote_theme: daviddarnes/alembic@main
+# See https://matthiaslischka.at/2018/12/03/github-jekyll-best-practice/
+remote_theme: gippeswyk-singers/alembic@main
