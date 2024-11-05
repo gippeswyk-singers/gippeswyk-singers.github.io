@@ -47,8 +47,8 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
-# Following gems reported missing by Github actions (https://github.com/gippeswyk-singers/gippeswyk-singers.github.io/actions)
-gem "webrick"
+# Following gems reported missing by Github actions (https://github.com/gippeswyk-singers/gippeswyk-singers.github.io/actions) 
+gem "webrick",  "~> 1.9.0"
 gem "i18n"
 gem "rexml"
 gem "activesupport"
