@@ -1,4 +1,9 @@
 source "https://rubygems.org"
+
+# Set ruby version as per https://pages.github.com/versions/
+# See also https://github.com/github/pages-gem/issues/752
+ruby '3.3.4'
+
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
