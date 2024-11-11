@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Gippeswyk Singers - Conductor
+title: Gippeswyk Singers
 feature_image: "../assets/choirHeadOnCartoonExpanded.jpg"
 ---
+
+### Janette Ruocco - Conductor
 
 Janette Ruocco has undertaken extensive training as a choral director and conductor and holds an MA in Choral Education and an LRSM in Choral Direction, furthering her studies in orchestral conducting as one of eight students selected for a course at the London Conducting Academy. Janette is a dedicated music educator who brings her own passion for choral music to all of the groups with whom she works. With her own blend of humour, encouragement and insistence on musical performance at all times, she supports the development of musical literacy, vocal technique, a love of performance and, above all, an appreciation of the wealth of possibilities for creative communication through the medium of the human voice.
 

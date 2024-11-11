@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Gippeswyk Singers - Choristers
+title: Gippeswyk Singers
 feature_image: "../assets/choirHeadOnCartoonExpanded.jpg"
 ---
+
+### Choristers
 
 #### Contact Information
 
@@ -26,7 +28,6 @@ feature_image: "../assets/choirHeadOnCartoonExpanded.jpg"
 <br>
 
 #### Rehearsal Dates, Autumn/Winter 2024
-
 Regular rehearsals are on Monday night, 7.30 - 9.30 pm. at St. Michael & All Angels Church (aka St Michael's Church), Martlesham Heath, IP5 3PL.
 
 | Date     | Location |

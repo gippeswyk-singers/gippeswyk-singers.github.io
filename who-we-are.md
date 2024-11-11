@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Gippeswyk Singers - Who We Are
+title: Gippeswyk Singers
 feature_image: "../assets/choirHeadOnCartoonExpanded.jpg"
 ---
+
+###  Who We Are
 
 | Position                | Holder        |
 | :---------------------- | :------------ |
