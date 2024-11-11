@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Gippeswyk Singers - Our History
+title: Gippeswyk Singers
 feature_image: "../assets/choirHeadOnCartoonExpanded.jpg"
 ---
+
+### Our History
 
 In 1972, the Gippeswyk Singers chamber choir was formed by Geoff Lavery who was teaching at Ipswich School.
 

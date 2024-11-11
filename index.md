@@ -4,7 +4,7 @@ title: Gippeswyk Singers
 feature_image: "./assets/choirHeadOnCartoonExpanded.jpg"
 ---
 
-#### Next Concert - In Dulci Jublio
+### Next Concert - In Dulci Jublio
 
 A programme of seasonal music by German composers, including Buxtehude & Pachelbel, with carols for choir and audience.
 
@@ -19,7 +19,7 @@ Admission £12 in advance or £15 on the door<br>
 Booking through [Ticket Source](http://ticketsource.co.uk/gippeswyk-singers "ticket source") or telephone 07913 021661.<br>
 See the [concerts page](./concerts "concerts page") for more details.
 
-#### New Members
+### New Members
 
 Gippeswyk Singers chamber choir currently has spaces for TENORS and FIRST BASSES. If you are interested in joining the choir please contact Adrian Farthing on 07949 803594. We rehearse at St. Michael and All Angels Church, Martlesham Heath on Monday evenings. Rehearsals for our Christmas concert commence in September; see our [choristers page](./choristers "choristers page") for more details.
 

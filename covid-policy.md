@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Gippeswyk Singers - COVID Policy
+title: Gippeswyk Singers
 feature_image: "../assets/choirHeadOnCartoonExpanded.jpg"
 ---
+
+### COVID Policy
 
 Having followed government guidance scrupulously during the COVID pandemic, we are pleased to have returned to normal singing.
 
