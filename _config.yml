@@ -35,7 +35,7 @@ plugins:
 - jemoji
 - jekyll-remote-theme
 
-# 3. Gem settings
+# 3. Gem settings = TODO - change those tagged with jekyll-seo-tag
 paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
@@ -94,20 +94,20 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+title: "" # Site name or title, also used in jekyll-seo-tag - TODO change to "Gippeswyk Singers" when I am ready
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag - TODO change to "Gippeswyk Singers" content when I am ready
+url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag - TODO change to "Gippeswyk Singers" when I am ready
 baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
+# repo: "https://github.com/daviddarnes/alembic" # This value is optional - TODO could change to "Gippeswyk Singers" when I am ready
+email: "graeme.ludwig@btopenworld.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
 # google_analytics_anonymize_ip: ""
-# service_worker: false # Will turn off the service worker if set to false
+service_worker: false # Will turn off the service worker if set to false
 # short_name: "Al" # The web application short name, defaults to the site title
-css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
+css_inline: false # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
@@ -144,8 +144,6 @@ navigation_header:
 #  url: /categories/
 #- title: Search
 #  url: /search/
-#- title: Fork Alembic
-#  url: https://github.com/daviddarnes/alembic
 
 navigation_footer:
 - title: Created by David Darnes

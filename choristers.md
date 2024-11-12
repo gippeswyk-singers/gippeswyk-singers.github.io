@@ -77,7 +77,7 @@ The layout of the chairs maximises the space between singers. At the first rehea
 
 For the break during the rehearsal, please bring your own refreshments as the use of the kitchen facilities is restricted.
 
-Please note that whilst the committee has made every effort to provide a safe environment for those returning to singing, it is the individual’s choice and responsibility as to whether they attend. See our **COVID policy** for more details.
+Please note that whilst the committee has made every effort to provide a safe environment for those returning to singing, it is the individual’s choice and responsibility as to whether they attend. See our [COVID policy](../covid-policy "COVID policy") for more details.
 
 #### Concert Dress
 
