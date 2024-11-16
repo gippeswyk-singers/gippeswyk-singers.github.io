@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gippeswyk Singers
-feature_image: "../assets/choirHeadOnCartoonExpanded.jpg"
+feature_image: "../assets/GippeswykChoir.jpg"
 ---
 
 ### Contact Us
