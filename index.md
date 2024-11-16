@@ -1,23 +1,23 @@
 ---
 layout: page
 title: Gippeswyk Singers
-feature_image: "./assets/choirHeadOnCartoonExpanded.jpg"
+feature_image: "./assets/GippeswykChoir.jpg"
 ---
 
-### Next Concert - In Dulci Jublio
+### Next Concert
 
-A programme of seasonal music by German composers, including Buxtehude & Pachelbel, with carols for choir and audience.
+In Dulci Jublio; book through [Ticket Source](http://ticketsource.co.uk/gippeswyk-singers "ticket source") or telephone 07913 021661.<br>
 
-With The Dargason Ensemble<br>
-Conducted by Janette Ruocco<br>
-Accompanied by Sabine Sutton
+{% include figure.html image="../assets/choirJubiloConcert241207.jpg" caption="In Dulci Jubilo" alt="In Dulci Jubilo" width="526" height="744" %}
 
-Saturday 7th December 2024 at 4 pm<br>
-St Michael's and All Angels Church, Martlesham Heat, IP5 3PL
+### Future Concerts
 
-Admission £12 in advance or £15 on the door<br>
-Booking through [Ticket Source](http://ticketsource.co.uk/gippeswyk-singers "ticket source") or telephone 07913 021661.<br>
-See the [concerts page](./concerts "concerts page") for more details.
+| Date                      | Event                     |
+| :------------------------ | :------------------------ |
+| Sat 22nd Mar 2025, 7.30pm | 'A Sprig of Thyme' Concert|
+| Sat 7th Jun 2025, 7.30pm  | 'Songs and Cries' Concert |
+
+<br>
 
 ### New Members
 
