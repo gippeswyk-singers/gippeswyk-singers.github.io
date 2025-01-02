@@ -16,42 +16,51 @@ feature_image: "../assets/GippeswykChoir.jpg"
 
 <br>
 
-#### Dates for Your Diary, 2024
+#### Dates for Your Diary, 2025
 
-| Date                 | Event                     |
-| :------------------- | :------------------------ |
-| Sat 7th Dec, 4pm     | 'In dulci jublio' Concert |
-| Sat 25th Jan, 10-1pm | Open Singing Morning      |
-| Sat 22nd Mar, 7.30pm | 'A Sprig of Thyme' Concert|
-| Sat 7th Jun, 7.30pm  | 'Songs and Cries' Concert |
+See the [home page](../index.html#future-events) for details of open sing sessions and concerts. 
+
+| Date                 | Event                          |
+| :------------------- | :----------------------------- |
+| Mon 6th Jan, 7pm     | Christmas Social               |
+| Mon Jan 20th, 7.30pm | Bring & buy, in aid of Papyrus |
 
 <br>
 
-#### Rehearsal Dates, Autumn/Winter 2024
+#### Rehearsal Dates, Winter/Spring 2025
 Regular rehearsals are on Monday night, 7.30 - 9.30 pm. at St. Michael & All Angels Church (aka St Michael's Church), Martlesham Heath, IP5 3PL.
 
 | Date     | Location |
 | :------- | :------- |
-| Nov 11th | Church   |
-| Nov 18th | Church   |
-| Nov 25th | Pavilion |
-| Dec 2nd  | Church   |
-| Dec 7th  | Church   |
+| Jan 13th | Church   |
+| Jan 20th | Church   |
+| Jan 27th | Pavilion |
+| Feb 3rd  | Church   |
+| Feb 10th | Church   |
+| Feb 17th | Church   |
+| Feb 24th | Pavilion |
+| Mar 3rd  | Church   |
+| Mar 10th | Church   |
+| Mar 17th | Church   |
+| Mar 24th | Pavilion |
+| Mar 31st | Church   |
+| Apr 7th  | Church   |
+| Apr 28th | Pavilion |
 
 <br>
 
 #### Subscriptions
-Spring term subscription is £60, due on Jan 8th (or £15 monthly). Can be paid via bank transfer or by cheque. Contact the treasurer (Michael Dawe) for further details.
+Can be paid via bank transfer or by cheque. Contact the treasurer (Michael Dawe) for further details.
 
 #### Voice Reps
 If you are unable to attend a rehearsal, please contact your voice rep as listed below. If a rehearsal is to be cancelled the voice reps will ring you. For the voice rep contact details please consult the choir newsletter.
 
-| Section | Voice Rep       |
-| :------ | :-------------- |
-| Soprano | Kaye Dawe       |
-| Alto    | Ginette Johnson |
-| Tenor   | Phil Speirs     |
-| Bass    | Michael Dawe    |
+| Section | Voice Rep        |
+| :------ | :--------------- |
+| Soprano | Kaye Dawe        |
+| Alto    | Catherine Topham |
+| Tenor   | Phil Speirs      |
+| Bass    | Michael Dawe     |
 
 <br>
 
@@ -64,11 +73,17 @@ If you are unable to attend a rehearsal, please contact your voice rep as listed
 | Michael Dawe        | Treasurer        |
 | Bridget Stefanowski | Librarian        |
 | Sue Farthing        | Publicity        |
-| Ginette Johnson     |                  |
 | Gwynneth Johnson    |                  |
 | Janette Ruocco      | Musical Director |
 
 <br>
+
+#### FOGIES
+
+Do you know anyone who would like to be in "Fogies" (Friends of Ipswich Singers)? For an annual fee of £30 (£50 for a couple), they will receive:
+- a ticket for each concert
+- a complimentary glass of wine at the Chairman’s table
+- email alerts to up coming events
 
 #### Rehearsal Space
 The piano has now been fitted with new castors and can be readily moved providing greater flexibility and will be positioned by the emergency exit doors. This provides the maximum ventilation for the conductor being the most vulnerable, facing the whole choir. This allows us to enter the hall via the usual entrance.
