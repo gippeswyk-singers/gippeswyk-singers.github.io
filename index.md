@@ -4,17 +4,18 @@ title: Gippeswyk Singers
 feature_image: "./assets/GippeswykChoir.jpg"
 ---
 
-### Next Concert
+### Next Event
 
-In Dulci Jublio; book through [Ticket Source](http://ticketsource.co.uk/gippeswyk-singers "ticket source") or telephone 07913 021661.<br>
+Open Singing Afternoon, Saturday 25th January, 2-5 pm. Book through [Ticket Source](http://ticketsource.co.uk/gippeswyk-singers "ticket source") or by phoning 07949 803594.<br>
 
-{% include figure.html image="../assets/choirJubiloConcert241207.jpg" caption="In Dulci Jubilo" alt="In Dulci Jubilo" width="526" height="744" %}
+{% include figure.html image="../assets/openSing250125.png" caption="Open Sing" alt="Open Sing" width="632" height="770" %}
 
-### Future Concerts
+### Future Events
 
 | Date                      | Event                     |
 | :------------------------ | :------------------------ |
 | Sat 22nd Mar 2025, 7.30pm | 'A Sprig of Thyme' Concert|
+| Sat 3rd May 2025, 10-1pm  | Open Singing Morning      |
 | Sat 7th Jun 2025, 7.30pm  | 'Songs and Cries' Concert |
 
 <br>
