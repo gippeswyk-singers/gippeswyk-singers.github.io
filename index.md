@@ -4,12 +4,6 @@ title: Gippeswyk Singers
 feature_image: "./assets/GippeswykChoir.jpg"
 ---
 
-### Next Event
-
-Open Singing Afternoon, Saturday 25th January, 2-5 pm. Book through [Ticket Source](http://ticketsource.co.uk/gippeswyk-singers "ticket source") or by phoning 07949 803594.<br>
-
-{% include figure.html image="../assets/openSing250125.png" caption="Open Sing" alt="Open Sing" width="632" height="770" %}
-
 ### Future Events
 
 | Date                      | Event                     |

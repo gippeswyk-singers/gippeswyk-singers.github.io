@@ -32,10 +32,6 @@ Regular rehearsals are on Monday night, 7.30 - 9.30 pm. at St. Michael & All Ang
 
 | Date     | Location |
 | :------- | :------- |
-| Jan 13th | Church   |
-| Jan 20th | Church   |
-| Jan 27th | Pavilion |
-| Feb 3rd  | Church   |
 | Feb 10th | Church   |
 | Feb 17th | Church   |
 | Feb 24th | Pavilion |
@@ -51,6 +47,24 @@ Regular rehearsals are on Monday night, 7.30 - 9.30 pm. at St. Michael & All Ang
 
 #### Subscriptions
 Can be paid via bank transfer or by cheque. Contact the treasurer (Michael Dawe) for further details.
+
+#### Email Group
+
+The choir uses a Google Group email address so that we can easily send information to all choir members. Graeme Ludwig looks after the administration of the Google Group.
+
+On joining the choir, please give your email address to Kaye Dawe. If you have a Gmail email address (i.e. one ending <em>@gmail.com</em>) then please give us that email address to use if you can, as it makes our lives a bit easier.
+
+Graeme will then add your email address to the group. If possible he will add your email address directly to the group, and you should then start to receive emails sent to all choir members. Otherwise you will be sent an invitation to join the group. The email will be sent from <em>noreply@groups.google.com</em>. An example of the email invitation is below:
+
+{% include figure.html image="../assets/googleGroupExampleInvite.png" caption="Example of a Google Group Invitation" alt="Example of a Google Group Invitation" width="825" height="852" %}
+
+If you cannot find the above email after Graeme has sent you an invite you may need to check your spam folder, and/or search for the email directly; I'd suggest searching on the email address <em>noreply@groups.google.com</em>. If you still cannot find the email please speak to Graeme, and he'll do what he can to help you out.
+
+Once you find the email click on the <em>Accept this invitation</em> button. Your Internet browser (Chrome, Safari etc.) should then open up and display this page:
+
+{% include figure.html image="../assets/successfullyJoinedGoogleGroup.png" caption="Successfully Joined Google Group" alt="Successfully Joined Google Group" width="1032" height="405" %}
+
+You should then start to receive emails sent to all choir members. If you have any questions on the above please speak to Graeme.
 
 #### Voice Reps
 If you are unable to attend a rehearsal, please contact your voice rep as listed below. If a rehearsal is to be cancelled the voice reps will ring you. For the voice rep contact details please consult the choir newsletter.
