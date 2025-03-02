@@ -4,11 +4,16 @@ title: Gippeswyk Singers
 feature_image: "./assets/GippeswykChoir.jpg"
 ---
 
+### Next Concert
+
+A Spring of Thyme; book through [Ticket Source](http://ticketsource.co.uk/gippeswyk-singers "ticket source") or telephone 07510 612672.<br>
+
+{% include figure.html image="..\assets\choirSprigOfTimeConcert250322.jpg" caption="A Sprig of Thyme" alt="A Sprig of Thyme" width="1553" height="1095" %}
+
 ### Future Events
 
 | Date                      | Event                     |
 | :------------------------ | :------------------------ |
-| Sat 22nd Mar 2025, 7.30pm | 'A Sprig of Thyme' Concert|
 | Sat 3rd May 2025, 10-1pm  | Open Singing Morning      |
 | Sat 7th Jun 2025, 7.30pm  | 'Songs and Cries' Concert |
 
