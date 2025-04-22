@@ -6,9 +6,9 @@ feature_image: "./assets/GippeswykChoir.jpg"
 
 ### Next Concert
 
-A Spring of Thyme; book through [Ticket Source](http://ticketsource.co.uk/gippeswyk-singers "ticket source") or telephone 07510 612672.<br>
+Songs and Cries; book through [Ticket Source](http://ticketsource.co.uk/gippeswyk-singers "ticket source") or telephone 07510 612672.<br>
 
-{% include figure.html image="..\assets\choirSprigOfTimeConcert250322.jpg" caption="A Sprig of Thyme" alt="A Sprig of Thyme" width="1553" height="1095" %}
+{% include figure.html image="..\assets\choirSongsAndCriesConcert250607.jpg" caption="Songs and Cries" alt="Songs and Cries" width="793" height="1122" %}
 
 ### Future Events
 
