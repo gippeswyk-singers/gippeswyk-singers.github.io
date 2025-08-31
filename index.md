@@ -6,16 +6,15 @@ feature_image: "./assets/GippeswykChoir.jpg"
 
 ### Next Concert
 
-Songs and Cries; book through [Ticket Source](http://ticketsource.co.uk/gippeswyk-singers "ticket source") or telephone 07510 612672.<br>
-
-{% include figure.html image="..\assets\choirSongsAndCriesConcert250607.jpg" caption="Songs and Cries" alt="Songs and Cries" width="793" height="1122" %}
+Gloria: An evening with Vivaldi, Saturday 6th December 4pm<br>
 
 ### Future Events
 
-| Date                      | Event                     |
-| :------------------------ | :------------------------ |
-| Sat 3rd May 2025, 10-1pm  | Open Singing Morning      |
-| Sat 7th Jun 2025, 7.30pm  | 'Songs and Cries' Concert |
+| Date                | Event                                       |
+| :------------------ | :------------------------------------------ |
+| Sat 27th Sept 2-5pm | Open Singing Afternoon                      |
+| Sat 6th Dec 4pm     | Concert - 'Gloria: An evening with Vivaldi' |
+| Sat 21st Mar 2026   | Concert - 'Sacred Songs' : Gabriel Faure    |
 
 <br>
 

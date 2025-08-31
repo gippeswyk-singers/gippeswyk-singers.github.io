@@ -20,28 +20,24 @@ feature_image: "../assets/GippeswykChoir.jpg"
 
 See the [home page](../index.html#future-events) for details of open sing sessions and concerts. 
 
-| Date                 | Event                          |
-| :------------------- | :----------------------------- |
-| Mon 6th Jan, 7pm     | Christmas Social               |
-| Mon Jan 20th, 7.30pm | Bring & buy, in aid of Papyrus |
-
 <br>
 
 #### Rehearsal Dates, Winter/Spring 2025
 Regular rehearsals are on Monday night, 7.30 - 9.30 pm. at St. Michael & All Angels Church (aka St Michael's Church), Martlesham Heath, IP5 3PL.
 
-| Date     | Location |
-| :------- | :------- |
-| Feb 10th | Church   |
-| Feb 17th | Church   |
-| Feb 24th | Pavilion |
-| Mar 3rd  | Church   |
-| Mar 10th | Church   |
-| Mar 17th | Church   |
-| Mar 24th | Pavilion |
-| Mar 31st | Church   |
-| Apr 7th  | Church   |
-| Apr 28th | Pavilion |
+| Date     | Location               |
+| :------- | :--------------------- |
+| Sep 15th | Church                 |
+| Sep 22nd | Pavilion               |
+| Sep 27th | Church 2pm (Open sing) |
+| Sep 29th | Church                 |
+| Oct 6th  | Church                 |
+| Oct 13th | Church                 |
+| Oct 20th | Church                 |
+| Oct 27th | Pavilion               |
+| Nov 3rd  | Church                 |
+| Nov 10th | Church                 |
+| Nov 17th | Church                 |
 
 <br>
 
