@@ -6,7 +6,7 @@ feature_image: "../assets/GippeswykChoir.jpg"
 
 ###  Who We Are
 
-| Position                | Holder        |
+| **Position**            | **Holder**    |
 | :---------------------- | :------------ |
 | Honorary President      | Geoff Lavery  |
 | Honorary Vice President | Nigel Harding |
@@ -26,8 +26,6 @@ Ipswich IP5 3PL.<br>
 We are a non-audition choir. 
 
 Our repertoire includes Classical, Madrigals, Carols, Folk and Spirituals.
-
-We perform at many venues throughout Suffolk.
 
 ### Our History
 

@@ -6,15 +6,17 @@ feature_image: "./assets/GippeswykChoir.jpg"
 
 ### Next Concert
 
-Gloria: An evening with Vivaldi, Saturday 6th December 4pm<br>
+Gloria: An afternoon with Vivaldi, Saturday 6th December 4pm; book through [Ticket Source](http://ticketsource.co.uk/gippeswyk-singers "ticket source") or telephone 07510 612672.<br>
+
+{% include figure.html image="..\assets\choirGloriaConcert251206.jpg" caption="Gloria" alt="Poster for Concert Gloria: An afternoon with Vivaldi, Saturday 6th December 4pm" width="834" height="1175" %}
 
 ### Future Events
 
-| Date                | Event                                       |
-| :------------------ | :------------------------------------------ |
-| Sat 27th Sept 2-5pm | Open Singing Afternoon                      |
-| Sat 6th Dec 4pm     | Concert - 'Gloria: An evening with Vivaldi' |
-| Sat 21st Mar 2026   | Concert - 'Sacred Songs' : Gabriel Faure    |
+| **Date**                    | **Event**                                     |
+| :-------------------------- | :-------------------------------------------- |
+| Sat 6th Dec 4pm             | Concert - 'Gloria: An afternoon with Vivaldi' |
+| Sat 21st Mar 7.30 pm (2026) | Concert - 'Sacred Songs : Gabriel Faure'      |
+| Sat 6th Jun 7.30 pm (2026)  | Concert - 'An evening with Elgar'             |
 
 <br>
 

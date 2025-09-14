@@ -8,7 +8,7 @@ feature_image: "../assets/GippeswykChoir.jpg"
 
 #### Contact Information
 
-| Contact          | Details                                                                                        |
+| **Contact**      | **Details**                                                                                    |
 | :--------------- | :--------------------------------------------------------------------------------------------- |
 | Facebook         | Follow us on [Facebook](https://www.facebook.com/Gippeswyk-Singers-323078651124414 "Facebook") |
 | Musical Director | Janette Ruocco                                                                                 |
@@ -18,30 +18,42 @@ feature_image: "../assets/GippeswykChoir.jpg"
 
 #### Dates for Your Diary, 2025
 
-See the [home page](../index.html#future-events) for details of open sing sessions and concerts. 
+See the [home page](../index.html#future-events) for details of open sing sessions and concerts.
 
-<br>
+#### Concert Manager
+
+Your existing committee would very much appreciate a little extra help particularly on concert days... could YOU offer? 
 
 #### Rehearsal Dates, Winter/Spring 2025
+
 Regular rehearsals are on Monday night, 7.30 - 9.30 pm. at St. Michael & All Angels Church (aka St Michael's Church), Martlesham Heath, IP5 3PL.
 
-| Date     | Location               |
-| :------- | :--------------------- |
-| Sep 15th | Church                 |
-| Sep 22nd | Pavilion               |
-| Sep 27th | Church 2pm (Open sing) |
-| Sep 29th | Church                 |
-| Oct 6th  | Church                 |
-| Oct 13th | Church                 |
-| Oct 20th | Church                 |
-| Oct 27th | Pavilion               |
-| Nov 3rd  | Church                 |
-| Nov 10th | Church                 |
-| Nov 17th | Church                 |
+This year's AGM is at 7.30 pm on Monday October 13th, at the beginning of that night's regular rehearsal. Subs will be discussed at the AGM.
+
+| **Date** | **Location**         |
+| :------- | :--------------------|
+| Sep 15th | Church               |
+| Sep 22nd | Pavilion             |
+| Sep 29th | Church               |
+| Oct 6th  | Church               |
+| Oct 13th | Church               |
+|          | (AGM at beginning of |
+|          | rehearsal)           |
+| Oct 20th | Church               |
+|          | (Bring and Buy)      |
+| Oct 27th | Pavilion             |
+| Nov 3rd  | Church               |
+| Nov 10th | Church               |
+| Nov 17th | Church               |
+| Nov 24th | Pavilion             |
+| Dec 1st  | Church               |
+| Dec 6th  | Church (1.30 pm)     |
+| Jan 12th | Church               |
 
 <br>
 
 #### Subscriptions
+
 Can be paid via bank transfer or by cheque. Contact the treasurer (Michael Dawe) for further details.
 
 #### Email Group
@@ -63,20 +75,21 @@ Once you find the email click on the <em>Accept this invitation</em> button. You
 You should then start to receive emails sent to all choir members. If you have any questions on the above please speak to Graeme.
 
 #### Voice Reps
+
 If you are unable to attend a rehearsal, please contact your voice rep as listed below. If a rehearsal is to be cancelled the voice reps will ring you. For the voice rep contact details please consult the choir newsletter.
 
-| Section | Voice Rep        |
-| :------ | :--------------- |
-| Soprano | Kaye Dawe        |
-| Alto    | Catherine Topham |
-| Tenor   | Phil Speirs      |
-| Bass    | Michael Dawe     |
+| **Section** | **Voice Rep**    |
+| :---------- | :--------------- |
+| Soprano     | Kaye Dawe        |
+| Alto        | Catherine Topham |
+| Tenor       | Phil Speirs      |
+| Bass        | Michael Dawe     |
 
 <br>
 
 #### Committee Members
 
-| Member              | Role             |
+| **Member**          | **Role**         |
 | :------------------ | :--------------- |
 | Adrian Farthing     | Chairman         |
 | Kaye Dawe           | Secretary        |
@@ -96,6 +109,7 @@ Do you know anyone who would like to be in "Fogies" (Friends of Ipswich Singers)
 - email alerts to up coming events
 
 #### Rehearsal Space
+
 The piano has now been fitted with new castors and can be readily moved providing greater flexibility and will be positioned by the emergency exit doors. This provides the maximum ventilation for the conductor being the most vulnerable, facing the whole choir. This allows us to enter the hall via the usual entrance.
 
 The layout of the chairs maximises the space between singers. At the first rehearsal the seating will be labelled to indicate the voices.
