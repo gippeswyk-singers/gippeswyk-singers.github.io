@@ -17,39 +17,28 @@ toc_name: "choristers"
 
 <br>
 
-#### Dates for Your Diary, 2025 {#diary-dates}
+#### Dates for Your Diary, 2026 {#diary-dates}
 
 See the [home page](../index.html#future-events) for details of open sing sessions and concerts.
+
+Details of future concert dates, to reserve in your diary:
+
+- December 5th 2026 at 4.00 pm
+- March 20th 2027 at 7.30 pm
+- June 5th 2027 at 7.30 pm
+- December 4th 2027 at 4.00 pm
 
 #### Concert Manager {#concert-manager}
 
 Your existing committee would very much appreciate a little extra help particularly on concert days... could YOU offer? 
 
-#### Rehearsal Dates, Winter/Spring 2025 {#rehearsal-dates}
+#### Rehearsal Dates, Spring 2026 {#rehearsal-dates}
 
 Regular rehearsals are on Monday night, 7.30 - 9.30 pm. at St. Michael & All Angels Church (aka St Michael's Church), Martlesham Heath, IP5 3PL.
 
-This year's AGM is at 7.30 pm on Monday October 13th, at the beginning of that night's regular rehearsal. Subs will be discussed at the AGM.
-
 | **Date** | **Location**         |
 | :------- | :--------------------|
-| Sep 15th | Church               |
-| Sep 22nd | Pavilion             |
-| Sep 29th | Church               |
-| Oct 6th  | Church               |
-| Oct 13th | Church               |
-|          | (AGM at beginning of |
-|          | rehearsal)           |
-| Oct 20th | Church               |
-|          | (Bring and Buy)      |
-| Oct 27th | Pavilion             |
-| Nov 3rd  | Church               |
-| Nov 10th | Church               |
-| Nov 17th | Church               |
-| Nov 24th | Pavilion             |
-| Dec 1st  | Church               |
-| Dec 6th  | Church (1.30 pm)     |
-| Jan 12th | Church               |
+|          |                      |
 
 <br>
 
