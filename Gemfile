@@ -52,7 +52,7 @@ gem "webrick", "~> 1.9"
 
 gem "i18n", "~> 1.14"
 
-gem "rexml", "~> 3.3"
+gem "rexml", "~> 3.4.2"
 
 gem "activesupport", "~> 7.2"
 
@@ -70,4 +70,4 @@ gem "faraday-net_http", "~> 3.3"
 
 gem "json", "~> 2.7"
 
-gem "uri", "~> 0.13.1"
+gem "uri", "~> 0.13.3"
