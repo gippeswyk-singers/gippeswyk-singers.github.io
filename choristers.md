@@ -32,13 +32,31 @@ Details of future concert dates, to reserve in your diary:
 
 Your existing committee would very much appreciate a little extra help particularly on concert days... could YOU offer? 
 
-#### Rehearsal Dates, Spring 2026 {#rehearsal-dates}
+#### Rehearsal Dates, Spring & Summer 2026 {#rehearsal-dates}
 
 Regular rehearsals are on Monday night, 7.30 - 9.30 pm. at St. Michael & All Angels Church (aka St Michael's Church), Martlesham Heath, IP5 3PL.
 
-| **Date** | **Location**         |
+| **Date** | **Location**                  |
 | :------- | :--------------------|
-|          |                      |
+| Feb 2nd  | Church                        |
+| Feb 9th  | Church                        |
+| Feb 16th | Church                        |
+| Feb 23rd | Pavilion                      |
+| Mar 2nd  | Church                        |
+| Mar 9th  | Church                        |
+| Mar 16th | Church                        |
+| Mar 21st | Church - afternoon of concert |
+| Mar 23rd | Pavilion                      |
+| Mar 30th | Church                        |
+| Apr 13th | Church                        |
+| Apr 20th | Church                        |
+| Apr 27th | Pavilion                      |
+| May 4th  | Church                        |
+| May 11th | Church                        |
+| May 18th | Church                        |
+| May 25th | Pavilion                      |
+| Jun 1st  | Church                        |
+| Jun 6th  | Church - afternoon of concert |
 
 <br>
 
