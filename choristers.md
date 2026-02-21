@@ -23,7 +23,6 @@ See the [home page](../index.html#future-events) for details of open sing sessio
 
 Details of future concert dates, to reserve in your diary:
 
-- December 5th 2026 at 4.00 pm
 - March 20th 2027 at 7.30 pm
 - June 5th 2027 at 7.30 pm
 - December 4th 2027 at 4.00 pm
@@ -37,7 +36,7 @@ Your existing committee would very much appreciate a little extra help particula
 Regular rehearsals are on Monday night, 7.30 - 9.30 pm. at St. Michael & All Angels Church (aka St Michael's Church), Martlesham Heath, IP5 3PL.
 
 | **Date** | **Location**                  |
-| :------- | :--------------------|
+| :------- | :-----------------------------|
 | Feb 2nd  | Church                        |
 | Feb 9th  | Church                        |
 | Feb 16th | Church                        |

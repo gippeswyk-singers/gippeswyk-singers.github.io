@@ -12,10 +12,12 @@ Sacred Songs: An evening with Gabriel Faure, Saturday 21st March 2026 7.30pm<br>
 
 ### Future Events
 
-| **Date**                    | **Event**                                     |
-| :-------------------------- | :-------------------------------------------- |
-| Sat 21st Mar 7.30 pm (2026) | Concert - 'Sacred Songs: Gabriel Faure'       |
-| Sat 6th Jun 7.30 pm (2026)  | Concert - 'An evening with Elgar'             |
+| **Date**                    | **Event**                             |
+| :-------------------------- | :-------------------------------------|
+| Sat 21st Mar 7.30 pm (2026) | Concert - Sacred Songs: Gabriel Faure |
+| Sat 6th Jun 7.30 pm (2026)  | Concert - An evening with Elgar       |
+| Sat 5th Dec 4.00 pm (2026)  | Concert - Handel's Messiah, part 1    |
+
 
 <br>
 
