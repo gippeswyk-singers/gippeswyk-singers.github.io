@@ -4,19 +4,18 @@ title: Gippeswyk Singers
 feature_image: "./assets/GippeswykChoir.jpg"
 ---
 
-### Next Concerts
+### Next Concert
 
-Sacred Songs: An evening with Gabriel Faure, Saturday 21st March 2026 7.30pm<br>
+Serenade: An evening with Edward Elgar, Saturday 6th June 2026 7.30pm<br>
 
-{% include figure.html image="..\assets\choirSacredSongsConcert260321.jpg" caption="Sacred Songs" alt="Sacred Songs: An evening with Gabriel Faure, Saturday 21st March 2026 7.30pm" width="526" height="746" %}
+{% include figure.html image="..\assets\choirSerenadeConcert260606.jpg" caption="Serenade" alt="Serenade: An evening with Edward Elgar, Saturday 6th June 2026 7.30pm" width="1080" height="1509" %}
 
 ### Future Events
 
 | **Date**                    | **Event**                             |
 | :-------------------------- | :-------------------------------------|
-| Sat 21st Mar 7.30 pm (2026) | Concert - Sacred Songs: Gabriel Faure |
 | Sat 6th Jun 7.30 pm (2026)  | Concert - An evening with Elgar       |
-| Sat 5th Dec 4.00 pm (2026)  | Concert - Handel's Messiah, part 1    |
+| Sat 5th Dec 7.00 pm (2026)  | Concert - Handel's Messiah, part 1    |
 
 
 <br>
