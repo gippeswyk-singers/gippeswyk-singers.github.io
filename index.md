@@ -6,17 +6,29 @@ feature_image: "./assets/GippeswykChoir.jpg"
 
 ### Next Concert
 
-Serenade: An evening with Edward Elgar, Saturday 6th June 2026 7.30pm<br>
-
-{% include figure.html image="..\assets\choirSerenadeConcert260606.jpg" caption="Serenade" alt="Serenade: An evening with Edward Elgar, Saturday 6th June 2026 7.30pm" width="1080" height="1509" %}
+Saturday December 5th 2026, St Michael’s Church, Martlesham Heath<br>
+The First Nowell with The Dargason Ensemble<br>
+Handel’s Messiah part I<br>
+Carols for choir and audience<br>
 
 ### Future Events
 
-| **Date**                    | **Event**                             |
-| :-------------------------- | :-------------------------------------|
-| Sat 6th Jun 7.30 pm (2026)  | Concert - An evening with Elgar       |
-| Sat 5th Dec 7.00 pm (2026)  | Concert - Handel's Messiah, part 1    |
+All concerts take place at St Michael’s Church, Martlesham Heath
 
+| **Date**                 | **Event**                              |
+| :------------------------| :--------------------------------------|
+| Saturday March 20th 2027 | Jazz Inflections                       |
+|                          | Chilcott – A little jazz mass          |
+|                          | Rutter – Birthday Madrigals            |
+|                          | Shearing – Songs and Sonnets           |
+|                          | Songs from the great American songbook |
+| Sunday June 5th 2027     | Concert - Handel's Messiah, part 1     |
+|                          | Works for choir and organ              |
+|                          | Gounod – Messe chorale                 |
+|                          | Brahms – Geistliches Lied              |
+|                          | Fauré – Cantique de Jean Racine        |
+|                          | Mendelssohn – Hear My Prayer           |
+|                          | and more...                            |
 
 <br>
 
