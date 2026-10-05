@@ -6,10 +6,7 @@ feature_image: "./assets/GippeswykChoir.jpg"
 
 ### Next Concert
 
-Saturday December 5th 2026, St Michael’s Church, Martlesham Heath<br>
-The First Nowell with The Dargason Ensemble<br>
-Handel’s Messiah part I<br>
-Carols for choir and audience<br>
+{% include figure.html image="..\assets\choirConcert_261205_TheFirstNowell.png" caption="The First Nowell" alt="The First Nowell, December 5th 2026 7.00pm" width="555" height="785" %}
 
 ### Future Events
 
@@ -38,6 +35,6 @@ If you are interested in joining the choir please contact Adrian Farthing on 079
 
 ### Previous Concerts
 
-{% include figure.html image="./assets/choirHenryPurcellConcert.jpg" caption="An Evening With Henry Purcell, St. Michael & All Angels, April 1, 2023" alt="An Evening With Henry Purcell, St. Michael & All Angels, April 1, 2023" width="1206" height="677" %}
+{% include figure.html image="./assets/choirConcert_230401_HenryPurcell.jpg" caption="An Evening With Henry Purcell, St. Michael & All Angels, April 1, 2023" alt="An Evening With Henry Purcell, St. Michael & All Angels, April 1, 2023" width="1206" height="677" %}
 
 {% include figure.html image="./assets/choirBarhamChurch.jpg" caption="On Christmas Night, Barham Church, December 11, 2021" alt="On Christmas Night, Barham Church, December 11, 2021" width="795" height="318" %}
