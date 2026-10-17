@@ -27,13 +27,9 @@ All concerts take place at St Michael’s Church, Martlesham Heath
 |                          | Mendelssohn – Hear My Prayer           |
 |                          | and more...                            |
 
-<br>
+### Photos
 
-### New Members
-
-If you are interested in joining the choir please contact Adrian Farthing on 07949 803594. We rehearse at St. Michael and All Angels Church, Martlesham Heath on Monday evenings. See our [choristers page](./choristers "choristers page") for more details.
-
-### Previous Concerts
+{% include figure.html image="./assets/choirRehearsal_260321.jpg" caption="Choir Rehearse on Concert Day, March 21st, 2026" alt="Choir Rehearse on Concert Day, March 21st, 2026" width="1496" height="842" %}
 
 {% include figure.html image="./assets/choirConcert_230401_HenryPurcell.jpg" caption="An Evening With Henry Purcell, St. Michael & All Angels, April 1, 2023" alt="An Evening With Henry Purcell, St. Michael & All Angels, April 1, 2023" width="1206" height="677" %}
 

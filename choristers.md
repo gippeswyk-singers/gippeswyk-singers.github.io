@@ -23,6 +23,7 @@ See the [home page](../index.html#future-events) for details of open sing sessio
 
 Details of future concert dates, to reserve in your diary:
 
+- December 5th 2026 7.00pm
 - March 20th 2027 at 7.30 pm
 - June 5th 2027 at 7.30 pm
 - December 4th 2027 at 4.00 pm
@@ -31,18 +32,20 @@ Details of future concert dates, to reserve in your diary:
 
 Your existing committee would very much appreciate a little extra help particularly on concert days... could YOU offer? 
 
-#### Rehearsal Dates, Spring & Summer 2026 {#rehearsal-dates}
+#### Rehearsal Dates, Autumn & Winter 2026 {#rehearsal-dates}
 
 Regular rehearsals are on Monday night, 7.30 - 9.30 pm. at St. Michael & All Angels Church (aka St Michael's Church), Martlesham Heath, IP5 3PL.
 
 | **Date** | **Location**                  |
 | :------- | :-----------------------------|
-| May 4th  | Church                        |
-| May 11th | Church                        |
-| May 18th | Church                        |
-| May 25th | Pavilion                      |
-| Jun 1st  | Church                        |
-| Jun 6th  | Church - afternoon of concert |
+| Oct 19th | Church                        |
+| Oct 26th | Pavilion                      |
+| Nov 2nd  | Church                        |
+| Nov 9th  | Church                        |
+| Nov 16th | Church                        |
+| Nov 23rd | Pavilion                      |
+| Nov 30th | Church                        |
+| Dec 6th  | Church - afternoon of concert |
 
 <br>
 
@@ -52,32 +55,20 @@ Can be paid via bank transfer or by cheque. Contact the treasurer (Michael Dawe)
 
 #### Email Group {#email-group}
 
-The choir uses a Google Group email address so that we can easily send information to all choir members. Graeme Ludwig looks after the administration of the Google Group.
+The choir now uses a set of Groups.io email addresses so that we can easily send information to all choir members. Graeme Ludwig looks after the administration of the email groups.
 
-On joining the choir, please give your email address to Kaye Dawe. If you have a Gmail email address (i.e. one ending <em>@gmail.com</em>) then please give us that email address to use if you can, as it makes our lives a bit easier.
-
-Graeme will then add your email address to the group. If possible he will add your email address directly to the group, and you should then start to receive emails sent to all choir members. Otherwise you will be sent an invitation to join the group. The email will be sent from <em>noreply@groups.google.com</em>. An example of the email invitation is below:
-
-{% include figure.html image="../assets/googleGroupExampleInvite.png" caption="Example of a Google Group Invitation" alt="Example of a Google Group Invitation" width="825" height="852" %}
-
-If you cannot find the above email after Graeme has sent you an invite you may need to check your spam folder, and/or search for the email directly; I'd suggest searching on the email address <em>noreply@groups.google.com</em>. If you still cannot find the email please speak to Graeme, and he'll do what he can to help you out.
-
-Once you find the email click on the <em>Accept this invitation</em> button. Your Internet browser (Chrome, Safari etc.) should then open up and display this page:
-
-{% include figure.html image="../assets/successfullyJoinedGoogleGroup.png" caption="Successfully Joined Google Group" alt="Successfully Joined Google Group" width="1032" height="405" %}
-
-You should then start to receive emails sent to all choir members. If you have any questions on the above please speak to Graeme.
+On joining the choir, please give your email address to Kaye Dawe. Graeme will then add your email address to the group, and you will be sent an invitation to join the group. Once you have accepted that invitation you should start to receive emails. If you have any questions on the above please speak to Graeme.
 
 #### Voice Reps {#voice-reps}
 
-If you are unable to attend a rehearsal, please contact your voice rep as listed below. If a rehearsal is to be cancelled the voice reps will ring you. For the voice rep contact details please consult the choir newsletter.
+If you are unable to attend a rehearsal, please contact your voice rep as listed below. If a rehearsal is to be cancelled the voice reps will contact you. To email your voice rep please use the relevant email address below, or see the most recent choir newsletter for other contact details.
 
-| **Section** | **Voice Rep**    |
-| :---------- | :--------------- |
-| Soprano     | Kaye Dawe        |
-| Alto        | Catherine Topham |
-| Tenor       | Phil Speirs      |
-| Bass        | Michael Dawe     |
+| **Section** | **Voice Rep**    | **Email Address** |
+| :---------- | :--------------- | :---------------  |
+| Soprano     | Kaye Dawe        | [sopranos.choir.rep@gippeswyksingers.groups.io](mailto:sopranos.choir.rep@gippeswyksingers.groups.io "sopranos.choir.rep@gippeswyksingers.groups.io") |
+| Alto        | Catherine Topham | [altos.choir.rep@gippeswyksingers.groups.io](mailto:altos.choir.rep@gippeswyksingers.groups.io "altos.choir.rep@gippeswyksingers.groups.io")                             |
+| Tenor       | Phil Speirs      | [tenors.choir.rep@gippeswyksingers.groups.io](mailto:tenors.choir.rep@gippeswyksingers.groups.io "tenors.choir.rep@gippeswyksingers.groups.io")                      |
+| Bass        | Michael Dawe     | [basses.choir.rep@gippeswyksingers.groups.io](mailto:basses.choir.rep@gippeswyksingers.groups.io "basses.choir.rep@gippeswyksingers.groups.io")                      |
 
 <br>
 
