@@ -19,8 +19,7 @@ All concerts take place at St Michael’s Church, Martlesham Heath
 |                          | Rutter – Birthday Madrigals            |
 |                          | Shearing – Songs and Sonnets           |
 |                          | Songs from the great American songbook |
-| Sunday June 5th 2027     | Concert - Handel's Messiah, part 1     |
-|                          | Works for choir and organ              |
+| Sunday June 5th 2027     | Works for choir and organ              |
 |                          | Gounod – Messe chorale                 |
 |                          | Brahms – Geistliches Lied              |
 |                          | Fauré – Cantique de Jean Racine        |
